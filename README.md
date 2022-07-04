@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript / Python / MySQL / C#
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -> 90%
 - ❤ Tenho como objetivo me tornar um full stack developer
-- ⚙ Tenho uma assistências técnicas de informática 👉 <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
+- ⚙ Tenho uma assistências técnicas de informática --> <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
 - 🔎 Em busca de oportunidades
 
 
