@@ -1,4 +1,4 @@
-### Olá rede 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Rede+:%29)](https://git.io/typing-svg)
 
 - 🎱 Hoje estou atuando como Service Level Management em uma empresa focada em fornecer softwares de gestão financeira
 - 🌱 Estudando Javascript / Python / MySQL / C#
@@ -34,7 +34,9 @@
   <a href="https://www.instagram.com/_rodzinski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodriggorodzinski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigorodzinski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+ 
+##
+   
   <div align="center">
   
   ![Snake animation](https://github.com/rodrigodomenico/rodrigodomenico/blob/output/github-contribution-grid-snake.svg)
@@ -42,5 +44,5 @@
 </div>
   
   
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Que+a+força+esteja+com+você+:%29)](https://git.io/typing-svg)
   
