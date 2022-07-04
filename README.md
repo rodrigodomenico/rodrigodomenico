@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript / Python / MySQL / C#
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -> 90%
 - ❤ Tenho como objetivo me tornar um full stack developer
-- ⚙ Nos tempos vagos conserto computadores e celulares 👉 <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
+- ⚙ Tenho uma assistências técnicas de informática 👉 <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
 - 🔎 Em busca de oportunidades
 
 
@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/rodrigodomenico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodomenico&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodomenico&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigodomenico&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodomenico&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
 
 ##
