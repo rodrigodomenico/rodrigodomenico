@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Rede+:%29)](https://git.io/typing-svg)
 
 - 🎱 Hoje estou atuando como Service Level Management em uma empresa focada em fornecer softwares de gestão financeira.
-- 🌱 Estudando Javascript / Python / MySQL / C#
+- 🧠 Estudando Front-end - DevMedia
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -> 90%
 - ❤ Tenho como objetivo me tornar um full stack developer
 - ⚙ Tenho uma assistências técnicas de informática --> <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
@@ -16,7 +16,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodomenico&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
 
-##
+ ##
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -44,5 +44,5 @@
 </div>
   
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Que+a+força+esteja+com+você.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+World)](https://git.io/typing-svg)
   
