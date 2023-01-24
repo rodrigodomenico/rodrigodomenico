@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Rede+:%29)](https://git.io/typing-svg)
 
 - 🎱 Hoje estou atuando como Service Level Management em uma empresa focada em fornecer softwares de gestão financeira.
-- 🧠 Estudando Front-end - DevMedia
-- 📚 Cursando Análise e Desenvolvimento de Sistemas -> 90%
+- 🧠 Estudande de ReactJS
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas 
 - ❤ Tenho como objetivo me tornar um full stack developer
 - ⚙ Tenho uma assistências técnicas de informática --> <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
 - 🔎 Em busca de oportunidades
