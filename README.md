@@ -6,7 +6,7 @@
 - ❤ Tenho como objetivo me tornar um full stack developer
 - ⚙ Tenho uma assistências técnicas de informática --> <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
 - 🔎 Em busca de oportunidades
-- 📑 Meu Portfólio --> <a href="https://rodrigodomenico.github.io/FreelancerRodrigo/">GitHub-Portfólio</i></a><span>
+- 📑 Meu Portfólio --> <a href="https://rodrigodomenico.github.io/FreelancerRodrigo/" target="_blank">GitHub-Portfólio</i></a><span>
 
 
 ##
@@ -14,7 +14,7 @@
 <div>
   <a href="https://github.com/rodrigodomenico">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigodomenico&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodomenico&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodomenico&layout=compact&langs_count=7&theme=ayu-mirage" _bac/>
 </div>
 
  ##
