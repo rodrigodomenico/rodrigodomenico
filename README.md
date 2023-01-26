@@ -6,7 +6,7 @@
 - ❤ Tenho como objetivo me tornar um full stack developer
 - ⚙ Tenho uma assistências técnicas de informática --> <a href="https://www.instagram.com/llog.informatica/">@llog.informatica</i></a><span>
 - 🔎 Em busca de oportunidades
-- 📑 Meu Portfólio --> <a href="https://rodrigodomenico.github.io/meu-portifolio//">GitHub-Portfólio</i></a><span>
+- 📑 Meu Portfólio --> <a href="https://rodrigodomenico.github.io/FreelancerRodrigo/">GitHub-Portfólio</i></a><span>
 
 
 ##
